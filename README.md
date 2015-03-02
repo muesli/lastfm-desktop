@@ -21,7 +21,7 @@ We recommend that you use Homebrew to install most of the dependancies:
     brew install --HEAD vlc
     brew install phonon-vlc
 
-We install kde-phonon becuase the Phonon distributed with Qt is quite old.
+We install kde-phonon because the Phonon distributed with Qt is quite old.
 
 Installing phonon-vlc will remove the QuickTime phonon plugin and replace
 it with the VLC phonon plugin so that when we build the app we use .
